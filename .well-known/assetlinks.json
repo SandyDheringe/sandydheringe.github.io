@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tenoapp.tenoinstantapp",
+    "sha256_cert_fingerprints":
+    ["F2:A0:84:38:16:7F:D6:0A:70:14:EF:6B:63:F1:52:88:DF:40:9D:9E:0D:CF:24:06:F9:A1:4D:52:E5:2D:53:4A"]
+  }
+}]
